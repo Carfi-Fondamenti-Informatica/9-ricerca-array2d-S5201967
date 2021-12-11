@@ -1,6 +1,6 @@
-#ifndef GITHUB9_LIB_H
-#define GITHUB9_LIB_H
-int cerca (char a1[10][20], char a2[20]);
+#ifndef GITHUB9_2_LIB_H
+#define GITHUB9_2_LIB_H
 
-#endif //GITHUB9_LIB_H
+bool ricerca(char lista[10][20], char nome[1][20], int &pos);
 
+#endif //GITHUB9_2_LIB_H
