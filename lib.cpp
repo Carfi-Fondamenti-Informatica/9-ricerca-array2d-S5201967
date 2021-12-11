@@ -1,4 +1,5 @@
 #include "lib.h"
+
 int cerca (char a1[10][20], char a2[20]){
     for(int i=0;i<0;i++){
         bool flag=true;
